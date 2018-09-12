@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.curso.guilhermeproject.MainActivity">
+    <item
+        android:id="@+id/Comparametro"
+        android:orderInCategory="100"
+        android:title="Comparametro"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/semparametro"
+        android:orderInCategory="100"
+        android:title="Semparametro"
+        app:showAsAction="never" />
+</menu>
